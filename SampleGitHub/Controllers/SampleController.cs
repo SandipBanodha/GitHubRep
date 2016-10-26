@@ -13,5 +13,9 @@ namespace SampleGitHub.Controllers
         {
             return View();
         }
+        public ActionResult SampleList()
+        {
+            return View();
+        }
     }
 }
